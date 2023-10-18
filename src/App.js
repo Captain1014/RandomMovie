@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import MovieCard from "./MovieCard";
-import { BrowserRouter as Router, Routes, Route, Link, redirect } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom";
 
 import "./App.css";
 
