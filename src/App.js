@@ -5,7 +5,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import "./App.css";
 
 import SearchIcon from "./search.svg";
-export const API_URL = "http://www.omdbapi.com/?apikey=95e51d87";
+export const API_URL = "https://www.omdbapi.com/?apikey=95e51d87";
 
 const App = () => {
   const [movies, setMovies] = useState([]);
