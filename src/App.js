@@ -40,7 +40,7 @@ const App = () => {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/RandomMovie">
       <div className="app">
         <h1 onClick={()=>{
           window.location.reload();
