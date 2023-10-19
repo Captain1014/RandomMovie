@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Captain1014.github.io/RandomMovie/static/css/main.7404b061.css",
+    "main.css": "/Captain1014.github.io/RandomMovie/static/css/main.5d8d0637.css",
     "main.js": "/Captain1014.github.io/RandomMovie/static/js/main.987fbffd.js",
     "index.html": "/Captain1014.github.io/RandomMovie/index.html",
     "static/media/search.svg": "/Captain1014.github.io/RandomMovie/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.7404b061.css.map": "/Captain1014.github.io/RandomMovie/static/css/main.7404b061.css.map",
+    "main.5d8d0637.css.map": "/Captain1014.github.io/RandomMovie/static/css/main.5d8d0637.css.map",
     "main.987fbffd.js.map": "/Captain1014.github.io/RandomMovie/static/js/main.987fbffd.js.map"
   },
   "entrypoints": [
-    "static/css/main.7404b061.css",
+    "static/css/main.5d8d0637.css",
     "static/js/main.987fbffd.js"
   ]
 }
