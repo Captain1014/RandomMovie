@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Captain1014/RandomMovie.git/static/css/main.7404b061.css",
-    "main.js": "/Captain1014/RandomMovie.git/static/js/main.e2ed13d7.js",
-    "index.html": "/Captain1014/RandomMovie.git/index.html",
-    "static/media/search.svg": "/Captain1014/RandomMovie.git/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.7404b061.css.map": "/Captain1014/RandomMovie.git/static/css/main.7404b061.css.map",
-    "main.e2ed13d7.js.map": "/Captain1014/RandomMovie.git/static/js/main.e2ed13d7.js.map"
+    "main.css": "/Captain1014/RandomMovie/static/css/main.7404b061.css",
+    "main.js": "/Captain1014/RandomMovie/static/js/main.daf3a441.js",
+    "index.html": "/Captain1014/RandomMovie/index.html",
+    "static/media/search.svg": "/Captain1014/RandomMovie/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.7404b061.css.map": "/Captain1014/RandomMovie/static/css/main.7404b061.css.map",
+    "main.daf3a441.js.map": "/Captain1014/RandomMovie/static/js/main.daf3a441.js.map"
   },
   "entrypoints": [
     "static/css/main.7404b061.css",
-    "static/js/main.e2ed13d7.js"
+    "static/js/main.daf3a441.js"
   ]
 }
